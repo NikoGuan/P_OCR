@@ -6,6 +6,9 @@ Welcome to the repository for the code implementations behind two cutting-edge p
 2. **Effective Synthetic Data and Test-Time Adaptation for OCR Correction** (**EMNLP 2024**).
 
 ---
+## Code Availability
+
+The code repository used in this study is currently under review by our partner organization. Interested researchers can contact the author to obtain access or view the code once it is publicly released.
 
 ## Overview 🌟
 
@@ -22,9 +25,7 @@ By leveraging these approaches, models like **ByT5** show significant improvemen
 
 ---
 
-## Code Availability
 
-The code repository used in this study is currently under review by our partner organization. Interested researchers can contact the author to obtain access or view the code once it is publicly released.
 
 ## Model Access 🔗
 
