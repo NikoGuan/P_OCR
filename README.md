@@ -22,9 +22,17 @@ By leveraging these approaches, models like **ByT5** show significant improvemen
 
 ---
 
+## Code Availability
+
+The code repository used in this study is currently under review by our partner organization. Interested researchers can contact the author to obtain access or view the code once it is publicly released.
+
 ## Model Access 🔗
 
 The models trained on synthetic datasets and enhanced with test-time adaptation are available on Hugging Face:  
-👉 [**Check out the models here**](https://huggingface.co/your-model-link).  
+👉 [**Check out the models here**](https://huggingface.co/ShuhaoGuan/post-ocr-byt5-large).  
+
+
+
+
 
 
